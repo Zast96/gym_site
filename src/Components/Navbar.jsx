@@ -28,7 +28,7 @@ function Navbar() {
         <li>
           {" "}
           <Link to="main" smooth={true} duration={1000}>
-            Header
+            Home
           </Link>
         </li>
         <li>
